@@ -1,0 +1,13 @@
+F:\Curso C#\Enumeracoes\Enumeracoes\bin\Debug\netcoreapp3.1\Enumeracoes.exe
+F:\Curso C#\Enumeracoes\Enumeracoes\bin\Debug\netcoreapp3.1\Enumeracoes.deps.json
+F:\Curso C#\Enumeracoes\Enumeracoes\bin\Debug\netcoreapp3.1\Enumeracoes.runtimeconfig.json
+F:\Curso C#\Enumeracoes\Enumeracoes\bin\Debug\netcoreapp3.1\Enumeracoes.runtimeconfig.dev.json
+F:\Curso C#\Enumeracoes\Enumeracoes\bin\Debug\netcoreapp3.1\Enumeracoes.dll
+F:\Curso C#\Enumeracoes\Enumeracoes\bin\Debug\netcoreapp3.1\Enumeracoes.pdb
+F:\Curso C#\Enumeracoes\Enumeracoes\obj\Debug\netcoreapp3.1\Enumeracoes.GeneratedMSBuildEditorConfig.editorconfig
+F:\Curso C#\Enumeracoes\Enumeracoes\obj\Debug\netcoreapp3.1\Enumeracoes.AssemblyInfoInputs.cache
+F:\Curso C#\Enumeracoes\Enumeracoes\obj\Debug\netcoreapp3.1\Enumeracoes.AssemblyInfo.cs
+F:\Curso C#\Enumeracoes\Enumeracoes\obj\Debug\netcoreapp3.1\Enumeracoes.csproj.CoreCompileInputs.cache
+F:\Curso C#\Enumeracoes\Enumeracoes\obj\Debug\netcoreapp3.1\Enumeracoes.dll
+F:\Curso C#\Enumeracoes\Enumeracoes\obj\Debug\netcoreapp3.1\Enumeracoes.pdb
+F:\Curso C#\Enumeracoes\Enumeracoes\obj\Debug\netcoreapp3.1\Enumeracoes.genruntimeconfig.cache
